@@ -16,4 +16,4 @@ Run Tailwind CLI
 npm run watch
 ```
 
-![Alt text](/src/assets/images/bookmark.png)
+![Alt text](/5src/assets/images/bookmark.png)
