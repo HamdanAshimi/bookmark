@@ -4,6 +4,7 @@ import Features from "./components/Features.jsx";
 import FeaturesTabs from "./components/FeaturesTabs.jsx";
 import DownloadHeading from "./components/DownloadHeading.jsx";
 import DownloadBoxes from "./components/DownloadBoxes.jsx";
+import Faq from "./components/Faq.jsx";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <FeaturesTabs />
       <DownloadHeading />
       <DownloadBoxes />
+      <Faq />
     </>
   );
 }
