@@ -1,4 +1,4 @@
-export default function Faq() {
+export default function FaqHeading() {
   return (
     <section className="faq">
       <div className="container mx-auto">
