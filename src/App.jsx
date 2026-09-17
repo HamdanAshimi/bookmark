@@ -7,6 +7,7 @@ import DownloadBoxes from "./components/DownloadBoxes.jsx";
 import FaqHeading from "./components/FaqHeading.jsx";
 import FaqAccordion from "./components/FaqAccordion.jsx";
 import Newsletter from "./components/NewsLetter.jsx";
+import Footer from "./components/Footer.jsx";
 
 function App() {
   return (
@@ -19,7 +20,8 @@ function App() {
       <DownloadBoxes />
       <FaqHeading />
       <FaqAccordion />
-      <Newsletter/>
+      <Newsletter />
+      <Footer />
     </>
   );
 }
