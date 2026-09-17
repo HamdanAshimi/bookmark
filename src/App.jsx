@@ -5,6 +5,7 @@ import FeaturesTabs from "./components/FeaturesTabs.jsx";
 import DownloadHeading from "./components/DownloadHeading.jsx";
 import DownloadBoxes from "./components/DownloadBoxes.jsx";
 import FaqHeading from "./components/FaqHeading.jsx";
+import FaqAccordion from "./components/FaqAccordion.jsx";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <DownloadHeading />
       <DownloadBoxes />
       <FaqHeading />
+      <FaqAccordion />
     </>
   );
 }
