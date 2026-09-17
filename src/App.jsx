@@ -6,6 +6,7 @@ import DownloadHeading from "./components/DownloadHeading.jsx";
 import DownloadBoxes from "./components/DownloadBoxes.jsx";
 import FaqHeading from "./components/FaqHeading.jsx";
 import FaqAccordion from "./components/FaqAccordion.jsx";
+import Newsletter from "./components/NewsLetter.jsx";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <DownloadBoxes />
       <FaqHeading />
       <FaqAccordion />
+      <Newsletter/>
     </>
   );
 }
