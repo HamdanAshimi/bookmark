@@ -13,7 +13,7 @@
 
   --font-sans: "Rubik", sans-serif;
 
-  --background-image-dots: url("../images/bg-dots.svg");
+  --background-image-dots: url("../src/assets/images/bg-dots.svg");
 }
 
 @variant lg {
